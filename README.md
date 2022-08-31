@@ -13,10 +13,10 @@ NO GOOD automated way to do it
 
 PERFECT chance to API and Python
 
-CallGrid API is Callook
+CallGrid API is Callook.info
 
 
-CallGridGet is different API (hamdb)
+CallGridGet is different API (hamdb.com)
 
 Things to add
 
