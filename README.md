@@ -1,5 +1,5 @@
 # CallGrid
-Callsign Grid locator
+Callsign Grid locators
 AJ3DI
 
 Python
@@ -16,7 +16,7 @@ PERFECT chance to API and Python
 CallGrid API is Callook.info
 
 
-CallGridGet is different API (hamdb.com)
+CallGridGet is different API (hamdb.org)
 
 Things to add
 
