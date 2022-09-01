@@ -8,11 +8,11 @@ import json
 
 callsign = ""
 
+while 1==1:
+
+    callsign = input("Enter Callsign: <q> to QUIT  >> ")
 
 
-callsign = input("Enter Callsign: <enter> to QUIT  >> ")
-
-while len(callsign) is true:
     
     if callsign == "q" :
         break
@@ -27,3 +27,6 @@ while len(callsign) is true:
             
         except:
             print (f"CALLSIGN {callsign} INVALID  <q> to QUIT")
+
+
+        callsign=""
